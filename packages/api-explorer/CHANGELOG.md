@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+### [0.9.36](https://www.github.com/looker-open-source/sdk-codegen/compare/api-explorer-v0.9.35...api-explorer-v0.9.36) (2022-07-19)
+
+
+### Features
+
+* URL Sharable Search in Explorer ([#1103](https://www.github.com/looker-open-source/sdk-codegen/issues/1103)) ([0eb10ee](https://www.github.com/looker-open-source/sdk-codegen/commit/0eb10ee5490e363baa3fd90561e417bd902cd50a))
+
 ### [0.9.35](https://www.github.com/looker-open-source/sdk-codegen/compare/api-explorer-v0.9.34...api-explorer-v0.9.35) (2022-07-14)
 
 

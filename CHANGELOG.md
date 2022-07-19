@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v2.6.0...sdk-codegen-all-v2.7.0) (2022-07-19)
+
+
+### Features
+
+* URL Sharable Search in Explorer ([#1103](https://www.github.com/looker-open-source/sdk-codegen/issues/1103)) ([0eb10ee](https://www.github.com/looker-open-source/sdk-codegen/commit/0eb10ee5490e363baa3fd90561e417bd902cd50a))
+
 ## [2.6.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-all-v2.5.0...sdk-codegen-all-v2.6.0) (2022-07-14)
 
 

@@ -1,6 +1,6 @@
 {
-  ".": "2.6.0",
-  "packages/api-explorer": "0.9.35",
+  ".": "2.7.0",
+  "packages/api-explorer": "0.9.36",
   "packages/code-editor": "0.1.22",
   "packages/extension-api-explorer": "22.10.0",
   "packages/extension-sdk": "22.10.0",
